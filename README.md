@@ -4,6 +4,10 @@ Rearranging the order of the PDV putting numerics before character variables
 
     Rearranging the order of the PDV putting numerics before character variables
 
+    github                                                                                                                     
+    https://tinyurl.com/8hxfw2ay                                                                                               
+    https://github.com/rogerjdeangelis/utl-sas-rearranging-the-order-of-the-sas-pdv-putting-numerics-before-character-variables
+
     inspired by
     https://goo.gl/B3yGv9
     https://communities.sas.com/t5/Base-SAS-Programming/Sorting-variables-by-type/m-p/337829
